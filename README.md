@@ -1,4 +1,4 @@
-# *TikTok_repo
+# TikTok_repo
 
 **Purpose of TikTok**
 1. Watch Videos
