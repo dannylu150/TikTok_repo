@@ -1,3 +1,6 @@
 # *TikTok_repo
-1. *Watch Videos
-2. *Post Videos
+
+** Purpose of TikTok
+1. Watch Videos
+2. Post Videos
+
